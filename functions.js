@@ -19,5 +19,4 @@ console.log(addNumbers(2, 3));
 1. Function call. Executes the code inside the function body.
 2. Arguments. The values to be used as parameters in the function.
 3. Return value. By default functions will return undefined, but can return the result of a computation when the body contains a return statement.
-
 */
